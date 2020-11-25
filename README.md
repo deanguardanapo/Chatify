@@ -1,4 +1,4 @@
-# Chatify - a Personal Chat System
+# Chatify - A Personal Chat System
 Chatify is a personal chat system that consists of having both real-time users and a "Chatify Chatter" bot. Chatify is a useful tool that allows users to enter different chat rooms and interact with different people over different topics. 
 
 ## Getting Started
