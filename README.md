@@ -18,6 +18,10 @@ The following instructions will aid you to run this project on your local machin
 $ git clone git@github.com:deanguardanapo/Chatify.git
 ```
 ### Features
+* **Register** - The register page allows for the user to create an account with their email and name.
+* **Error Checking** - Pictured below are error checks to make sure that the user has both a reliable/real email and password that is > 6 characters.
+* **Login Page** - The login page allows you to login to your newly created account.
+* **Database** - We have chosen to utilize MongoDB as our database for it will display the users name, email, password (encrypted), and the time stamp for which the account was created.
 * **Home Page** - The homepage allows for the user to select a username and "room" of choice.
 ![](/Images/chat1.JPG)
 * **Select Room** - The select room option allows for you access a drop down list of different chat room(s) that you can enter. Each room is titled differently so you can select one that matches the topic of your choice.
@@ -33,3 +37,6 @@ $ git clone git@github.com:deanguardanapo/Chatify.git
 
 ## Authors 
 * **Dean Guardanapo** - [GitHub](https://github.com/Deanguardanapo)
+* **Emilio Chavoya**
+* **Prem Dhar**
+* **Hewan Mekuria**
