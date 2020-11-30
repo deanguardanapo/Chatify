@@ -42,6 +42,6 @@ $ git clone git@github.com:deanguardanapo/Chatify.git
 
 ## Authors 
 * **Dean Guardanapo** - [GitHub](https://github.com/Deanguardanapo)
-* **Emilio Chavoya**
-* **Prem Dhar**
-* **Hewan Mekuria**
+* **Emilio Chavoya** - [GitHub](https://github.com/emiliochavoya98)
+* **Prem Dhar** - [GitHub](https://github.com/PremDh)
+* **Hewan Mekuria** - [GitHub](https://github.com/hewich)
