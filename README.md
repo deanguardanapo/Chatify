@@ -19,7 +19,7 @@ $ git clone git@github.com:deanguardanapo/Chatify.git
 ```
 2. Make sure that you have the correct dependencies installed through an integrated terminal to the project (in Visual Studio Code).
 ```
-$ <PATH DIRECTORY HERE>\Chatify > npm instal
+$ <PATH DIRECTORY HERE>\Chatify > npm install
 ```
 3. Run the code through the terminal. 
 ```
