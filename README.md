@@ -37,15 +37,15 @@ $ <PATH DIRECTORY HERE>\Chatify > npm run dev
 ![](/Images/reg5.JPG)
 * **Home Page** - The homepage allows for the user to select a username and "room" of choice.
 ![](/Images/chat1.JPG)
-* **Select Room** - The select room option allows for you access a drop down list of different chat room(s) that you can enter. Each room is titled differently so you can select one that matches the topic of your choice.
+* **Select Room** - The select room option allows for you access a drop down list of the different chat room(s) that you can enter. Each room is titled differently so you can select one that matches the topic of your choice.
 ![](/Images/chat2.jpg)
-* **Chat Room** - Once you have chosen your room of choice in the last step and have proceeded on to click the "Join Chat" button, you will then be redicted to the chat room itself. 
+* **Chat Room** - Once you have chosen your room of choice in the last step and have proceeded to click the "Join Chat" button, you will then be redirected to the chat room itself. 
 ![](/Images/chat3.JPG)
 * **New Join** - Now that you have established yourself into the chat you and have been greeted by the Chatify Chatter Bot, you will be able to view the "Room Name" as well as the "Users" in the room with you. Pictured below is an example of what it looks like for another user to enter the chat room (the Bot also notifies you when someone enters the chat room). You are also able to view the username of the person who sent the message along with a time stamp. In addition, you will be able to see the new user is now present on the left side of the screen under "users."
 ![](/Images/chat4.JPG)
 * **Chatting** - Similar to the Chatify Chatter, user messages will also be visible with the username and timestamp on the top left corner of the chat. 
 ![](/Images/chat5.JPG)
-* **User Leave** - Pictured below is example of what the Chatify Chatter will notify you of when a user leaves the chat room that you are in. The "Users" section on the left hand side is also updated.
+* **User Leave** - Pictured below is an example of what the Chatify Chatter will notify you of when a user leaves the chat room that you are in. The "Users" section on the left hand side is also updated.
 ![](/Images/chat6.JPG)
 
 ## Authors 
