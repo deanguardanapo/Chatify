@@ -17,6 +17,14 @@ The following instructions will aid you to run this project on your local machin
 ```
 $ git clone git@github.com:deanguardanapo/Chatify.git
 ```
+2. Make sure that you have the correct dependencies installed through an integrated terminal to the project (in Visual Studio Code).
+```
+$ <PATH DIRECTORY HERE>\Chatify > npm instal
+```
+3. Run the code through the terminal. 
+```
+$ <PATH DIRECTORY HERE>\Chatify > npm run dev
+```
 ### Features
 * **Register** - The register page allows for the user to create an account with their email and name.
 ![](/Images/reg1.JPG)
