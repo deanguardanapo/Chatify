@@ -19,9 +19,14 @@ $ git clone git@github.com:deanguardanapo/Chatify.git
 ```
 ### Features
 * **Register** - The register page allows for the user to create an account with their email and name.
-* **Error Checking** - Pictured below are error checks to make sure that the user has both a reliable/real email and password that is > 6 characters.
+![](/Images/reg1.JPG)
+* **Error Checking** - Pictured below are error checks to make sure that the user has both a reliable/real email and password that is greater than or equal to six characters.
+![](/Images/reg2.JPG)
+![](/Images/reg3.JPG)
 * **Login Page** - The login page allows you to login to your newly created account.
+![](/Images/reg4.JPG)
 * **Database** - We have chosen to utilize MongoDB as our database for it will display the users name, email, password (encrypted), and the time stamp for which the account was created.
+![](/Images/reg5.JPG)
 * **Home Page** - The homepage allows for the user to select a username and "room" of choice.
 ![](/Images/chat1.JPG)
 * **Select Room** - The select room option allows for you access a drop down list of different chat room(s) that you can enter. Each room is titled differently so you can select one that matches the topic of your choice.
