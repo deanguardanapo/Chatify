@@ -7,7 +7,7 @@ The following instructions will aid you to run this project on your local machin
 
 ### Requirements
 * GitHub Account
-* JacaScript
+* JavaScript
 * HTML
 * CSS
 * Visual Studio Code (or environment of chosen)
